@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\bin\Debug\9.CicloWhile.2.exe.config
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\bin\Debug\9.CicloWhile.2.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\bin\Debug\9.CicloWhile.2.pdb
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\obj\Debug\9.CicloWhile.2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\obj\Debug\9.CicloWhile.2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\obj\Debug\9.CicloWhile.2.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\9.CicloWhile.2\9.CicloWhile.2\obj\Debug\9.CicloWhile.2.pdb
