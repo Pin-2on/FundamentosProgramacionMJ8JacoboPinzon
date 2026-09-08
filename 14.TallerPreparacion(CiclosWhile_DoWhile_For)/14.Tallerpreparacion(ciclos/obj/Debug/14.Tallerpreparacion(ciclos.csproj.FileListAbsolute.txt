@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\bin\Debug\14.Tallerpreparacion(ciclos.exe.config
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\bin\Debug\14.Tallerpreparacion(ciclos.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\bin\Debug\14.Tallerpreparacion(ciclos.pdb
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\obj\Debug\14.Tallerpreparacion(ciclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\obj\Debug\14.Tallerpreparacion(ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\obj\Debug\14.Tallerpreparacion(ciclos.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\14.TallerPreparacion(CiclosWhile_DoWhile_For)\14.Tallerpreparacion(ciclos\obj\Debug\14.Tallerpreparacion(ciclos.pdb
