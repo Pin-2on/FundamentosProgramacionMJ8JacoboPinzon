@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\bin\Debug\Parcial2Ciclos.exe.config
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\bin\Debug\Parcial2Ciclos.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\bin\Debug\Parcial2Ciclos.pdb
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\obj\Debug\Parcial2Ciclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\obj\Debug\Parcial2Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\obj\Debug\Parcial2Ciclos.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\Parcial2Ciclos\Parcial2Ciclos\obj\Debug\Parcial2Ciclos.pdb
