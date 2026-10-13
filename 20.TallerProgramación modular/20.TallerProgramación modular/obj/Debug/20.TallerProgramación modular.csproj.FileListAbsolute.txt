@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\bin\Debug\20.TallerProgramación modular.exe.config
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\bin\Debug\20.TallerProgramación modular.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\bin\Debug\20.TallerProgramación modular.pdb
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\obj\Debug\20.TallerProgramación modular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\obj\Debug\20.TallerProgramación modular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\obj\Debug\20.TallerProgramación modular.exe
+C:\Users\B09S104est\Documents\JacoboPinzon\FundamentosProgramacionMJ8JacoboPinzon\20.TallerProgramación modular\20.TallerProgramación modular\obj\Debug\20.TallerProgramación modular.pdb
